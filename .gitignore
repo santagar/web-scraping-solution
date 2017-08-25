@@ -1,0 +1,14 @@
+.idea*
+.python*
+dataSources
+*.iml
+*.pyc
+*.class
+*.ids
+*.ipr
+*.iws
+scraper-service/venv
+api-backend-service/build
+api-backend-service/.gradle
+api-backend-service/api-backend.iws
+*.log
