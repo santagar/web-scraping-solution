@@ -25,4 +25,4 @@ Scraper service:
 
     python worker.py
     
-######More info: You can find more details inside each service README
+More info: You can find more details inside each service README
